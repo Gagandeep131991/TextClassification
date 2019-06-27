@@ -1,9 +1,6 @@
 # TextClassification
 
-The dataset have twp columns :
-•	comment text 
-•	Labels 
-The comment text in the dataset are classified as negative and positive. 
+The dataset have twp columns :comment text and Labels. The comment text in the dataset are classified as negative and positive. 
 
 The different machine learning techniques like Support vector machine, Random forest, logistic regression and Naïve Bayes to classify 
 the text as positive and negative. Also, different feature selection techniques like PCA and Chi square along with the different 
